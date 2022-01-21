@@ -3,4 +3,9 @@
 test
 demo
 salam
-necesen
+necesen sağol
+
+bu fayl deyishilmelidi
+deyismir
+
+
